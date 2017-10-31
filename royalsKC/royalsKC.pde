@@ -3,7 +3,7 @@
    int y=10;
 int speed2=10;
 void setup(){
-  size(1000,700);
+  size(1000,700);//size of canvas
   ellipseMode(CENTER);
   rectMode(CENTER);
   

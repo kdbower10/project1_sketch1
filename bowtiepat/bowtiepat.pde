@@ -1,5 +1,5 @@
 void setup(){
- size(1000,700);
+ size(1000,700);//size of canvas
  
 }
 
